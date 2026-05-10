@@ -1,4 +1,3 @@
-```markdown
 # Data Structures and Algorithms
 
 Implementations of data structures, algorithmic paradigms, optimization strategies, and scalable problem-solving techniques.
@@ -30,4 +29,7 @@ Implementations of data structures, algorithmic paradigms, optimization strategi
 ## Collaboration
 
 - Added collaborative contribution workflow
-```
+
+## Updates
+
+- Added repository documentation improvements
