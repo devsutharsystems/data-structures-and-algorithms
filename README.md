@@ -26,4 +26,8 @@ Implementations of data structures, algorithmic paradigms, optimization strategi
 - Optimize time and space complexity
 - Prepare for technical interviews
 - Build scalable and efficient solutions
+
+## Collaboration
+
+- Added collaborative contribution workflow
 ```
